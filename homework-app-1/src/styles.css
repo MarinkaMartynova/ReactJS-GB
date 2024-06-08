@@ -1,0 +1,14 @@
+.message {
+  /*background-color: #c3eefb;*/
+  border: 1px solid #00972e;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 16px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.message p {
+  margin: 0;
+  font-size: 1.2rem;
+  color: #333;
+}/*# sourceMappingURL=styles.css.map */
